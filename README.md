@@ -15,4 +15,4 @@ Example: If the original file has permissions -rwx-wxr-x, the copied file will h
 
 For symbolic links, no operations will be performed.
 
-The project must also include a corresponding Makefil
+The project must also include a corresponding Makefile.
